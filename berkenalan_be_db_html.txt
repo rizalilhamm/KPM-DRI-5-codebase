@@ -1,0 +1,49 @@
+PENJELASAN DASAR BACK-END
+Back end adalah segala hal yang berhubungan dengan server (misal pada situs atau cloud) dan database. 
+Developer backend adalah mesin yang bekerja di balik layar, semua yang tidak dilihat oleh pengguna akhir atau berinteraksi langsung, 
+tetapi itu memberi data apa saja yang akan diperlukan di bagian FROND-END
+
+BAHASA UNTUK BACK-END
+1. Python
+2. Java
+3. NodeJS / JavaScript
+4. Golang (Golang) , Rungguru, Gojek, Google
+5. Ruby
+6. PHP
+--------------------------------------------------------------------------------------------------------------------------
+
+PENJELASAN DASAR DATABASE
+Database atau basis data adalah kumpulan informasi yang disimpan di dalam komputer secara sistematik
+sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut.
+Kegunaan utama database adalah untuk menyimpan semua data agar user mampu menyusun suatu pandangan (view) abstraksi data.
+
+JENIS DATABASE
+1. SQL adalah bahasa yang digunakan untuk melakukan Query data yang berada di server dan bersifat relational
+2. NoSQL adalah bahasa yang digunakan untuk melakukan Query data yang berada di server dan tidak bersifat relational
+--------------------------------------------------------------------------------------------------------------------------
+
+PENJELASAN DASAR HTML
+HTML adalah singkatan dari HYPER TEXT MARKUP LANGUAGE yang mana bahasa ini digunakan untuk membuat template yang berjalan disisi client
+contoh yang sering kita lihat adalah ketika kita membuka halaman web, semua tampilan yang ditampilkan halaman merupakan halaman yang
+disusun dengan HTML, ini adalah bahasa yang wajid dikuasai k=oleh FrondEnd Developer.
+
+CONTOH DASAR SUSUNAN HTML
+
+    <html>
+
+        // Bagian Kepada
+        <head>
+            <title>BAGIAN JUDUL HALAMAN</title>
+        </head>
+
+        // Body apa yang ditampilkan di halaman
+        <body>
+            ISINYA ADALAH KONTEN YANG AKAN DITAMPILKAN PADA HALAMAN WEB
+        </body>
+    </html>
+
+--------------------------------------------------------------------------------------------------------------------------
+CATATAN AKHIR YANG PERLU DIKETAHUI
+1. Frond End Developer  - Seseorang yang membangun halama depan Web (Tools: JavaScript, HTML, CSS)
+2. Back End Developer   - Seseorang yang bekerja disisi Server yang membangun kode untuk mengolah data (Tools: Python, Java, Golang, Database)
+3. FullStack Developer  - Seseorang yang bekerja dibagian Frond End dan Back End, DevOps
